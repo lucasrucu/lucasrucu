@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-😄 Hi, I'm Lucas Ruiz<br>🌱 I'm currently studying to be a software engineer.<br>🧑‍💻 I love creating projects with front and backend.<br>⚡ My favorite hobbies involve extreme sports like mountain biking 🚵‍♂️ and snowboarding 🏂.
+😄 Hi, I'm Lucas Ruiz<br>🌱 I'm currently working in mines as a software engineer.<br>🧑‍💻 I love creating projects with front and backend.<br>⚡ My favorite hobbies involve endurance sports like triathlons 🏃‍♂️ and mountain biking 🚵‍♂️.
 
 
 ## 🌐 Socials:
